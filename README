@@ -1,0 +1,56 @@
+# Hybrid Expert System for Potato Disease Diagnosis Using Deep Learning
+
+## Overview
+
+This project presents a hybrid artificial intelligence system for
+automatic potato leaf disease diagnosis.
+
+The system combines:
+
+1. Convolutional Neural Network
+2. Rule-Based Expert System
+3. Disease Recommendation Module
+4. Streamlit Application
+
+## Disease Classes
+
+- Healthy
+- Early Blight
+- Late Blight
+
+## System Architecture
+
+Image
+ ↓
+Preprocessing
+ ↓
+CNN
+ ↓
+Disease Prediction
+ ↓
+Confidence Check
+ ↓
+Expert System
+ ↓
+Diagnosis + Recommendation
+
+## Technologies
+
+- Python
+- TensorFlow/Keras
+- CNN
+- Scikit-learn
+- OpenCV
+- Streamlit
+
+## Results
+
+The research model achieved approximately 88% validation accuracy.
+
+## Authors
+
+K. Dhivyashree
+Mathew Sebastian
+
+MSc Data Science
+Vellore Institute of Technology, Chennai
